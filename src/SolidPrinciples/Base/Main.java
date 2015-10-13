@@ -1,4 +1,4 @@
-package SolidPrinciples;
+package SolidPrinciples.Base;
 
 import static java.lang.System.*;
 
